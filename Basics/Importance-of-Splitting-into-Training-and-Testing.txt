@@ -1,0 +1,8 @@
+We split the dataset into two parts:
+Training Set and Testing Set
+Training Set
+It is used for building the model
+Testing Set
+It is used to make predictions and then compare the made predictions with the actual values and check how the model is performing.
+This split happens before building the model.
+Usually the split ration between training dataset to testing dataset is in ratio 80:20
