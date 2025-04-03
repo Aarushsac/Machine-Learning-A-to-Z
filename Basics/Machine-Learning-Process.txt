@@ -1,0 +1,13 @@
+The Machine Learning Process is useful in generalizing while building our ml models:
+It is a 3 step approach:-
+1.Data Preprocessing
+  ->Import the Data
+  ->Clean the Data
+  ->Split the data into training and test sets
+2.Modelling
+  ->Build the model
+  ->Train the model
+  ->Make predictions
+3.Evaluation
+  ->Calculate performance metrics
+  ->Make a verdict
