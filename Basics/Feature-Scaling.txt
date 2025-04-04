@@ -1,0 +1,23 @@
+Feature Scaling
+
+Feature Scaling is an important step in Machine learning before we build any model we need to make sure that all features are comparable and lie in the 
+same bracket and can be compared.One feature value should not dominate other feature's value just due to the fact that it is represented in some unit
+which is large and other one in some unit which is small.
+
+One thing to remember about feature scaling is that it is always applied to columns no matter what.
+
+There are two most important ways of feature scaling:-
+1.Normalization
+2.Standardization
+
+Normalization
+In normalization, we normalize the features such that the resultant features in any column lie between [0,1].
+X'=(X-Xmin)/(Xmax-Xmin)
+
+Standardization
+In standardization, we standardize the features such that the resultant features in any column lie between [-3,+3].
+X'=(X-μ)/σ
+where meu is average of the column value and the sigma is standard deviation.
+
+
+
